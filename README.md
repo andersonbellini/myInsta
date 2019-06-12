@@ -11,10 +11,10 @@ Bibliotecas utilizadas
 - cors
 - socket.io
 
-##Fronend Web
+##Fronend Web (Em breve)
 - ES6
 - ReactJS
 
-##Frontend Mobile
+##Frontend Mobile (Em breve)
 - ES6
 - ReactJS
