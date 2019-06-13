@@ -11,9 +11,12 @@ Bibliotecas utilizadas
 - cors
 - socket.io
 
-##Fronend Web (Em breve)
+##Frontend Web
 - ES6
 - ReactJS
+- react router dom
+- axios
+- socket.io-client
 
 ##Frontend Mobile (Em breve)
 - ES6

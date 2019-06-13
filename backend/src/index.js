@@ -19,7 +19,7 @@ app.use((req,res,next)=>{
 
 app.use(cors()); // liberado para qualquer aplicação acessar esse backend
 
-app.use('/files', express.static(path.resolve(__dirname, '..', 'upload', 'resized' )));
+app.use('/files', express.static(path.resolve(__dirname, '..', 'uploads', 'resized' )));
 
 app.use(require('./routes'));
 

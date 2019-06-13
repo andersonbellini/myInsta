@@ -28,3 +28,5 @@ yarn add cors
 Adicionar o socket.io para retorno atraves de real-time que usa o protocolo de websocket
 yarn add socket.io
 
+Para executar
+yarn dev
