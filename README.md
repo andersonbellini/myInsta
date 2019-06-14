@@ -18,6 +18,19 @@ Bibliotecas utilizadas
 - axios
 - socket.io-client
 
-##Frontend Mobile (Em breve)
+##Frontend Mobile
 - ES6
 - ReactJS
+- react-navigation
+- react-native-gesture-handler
+- axios
+- socket.io-client
+- react-native-image-picker
+
+## Screenshots
+
+![myInsta](./printMobile.png)
+![myInsta](./printWeb.png)
+
+Anderson V. Bellini
+[Linkedin](http://www.linkedin.com/in/abellini)
