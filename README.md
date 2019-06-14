@@ -29,7 +29,7 @@ Bibliotecas utilizadas
 
 ## Screenshots
 
-![myInsta](./printMobile.png)
+![myInsta](./printMobile.jpeg)
 ![myInsta](./printWeb.png)
 
 Anderson V. Bellini
