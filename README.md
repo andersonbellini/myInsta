@@ -26,6 +26,8 @@ Bibliotecas utilizadas
 - axios
 - socket.io-client
 - react-native-image-picker
+##Oberservações
+Nem todas as funcionalidades estão implementadas, pois é apenas um projeto de estudo.
 
 ## Screenshots
 
@@ -33,4 +35,6 @@ Bibliotecas utilizadas
 ![myInsta](./printWeb.png)
 
 Anderson V. Bellini
+
+Mais informações sobre meu perfil profissional em 
 [Linkedin](http://www.linkedin.com/in/abellini)
